@@ -1,6 +1,6 @@
 {
   "name": "@tomochain-name-service/react-ens-address",
-  "version": "0.0.31",
+  "version": "0.0.30",
   "description": "React ENS address component",
   "main": "dist/index.js",
   "files": [
