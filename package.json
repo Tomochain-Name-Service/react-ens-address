@@ -11,7 +11,7 @@
   "scripts": {
     "test": "jest --watch --verbose",
     "build": "babel src -d dist --ignore src/**/*.test.js,**/__tests__/** --copy-files",
-    "pub": "yarn build && yarn publish"
+    "pub": "yarn build && yarn publish --access public"
   },
   "author": "Jeff Lau",
   "license": "ISC",
@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ensdomains/react-ens-address.git"
+    "url": "git+https://github.com/tomochain-name-service/react-ens-address.git"
   },
   "keywords": [
     "react",
@@ -67,7 +67,7 @@
     "react-ens"
   ],
   "bugs": {
-    "url": "https://github.com/ensdomains/react-ens-address/issues"
+    "url": "https://github.com/tomochain-name-service/react-ens-address/issues"
   },
-  "homepage": "https://github.com/ensdomains/react-ens-address#readme"
+  "homepage": "https://github.com/tomochain-name-service/react-ens-address#readme"
 }
