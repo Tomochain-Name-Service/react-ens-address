@@ -1,6 +1,6 @@
 {
   "name": "@tomochain-name-service/react-ens-address",
-  "version": "0.0.32",
+  "version": "0.0.34",
   "description": "React ENS address component",
   "main": "dist/index.js",
   "files": [
@@ -50,7 +50,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.14",
     "@emotion/styled": "^10.0.14",
-    "@tomochain-name-service/ui": "^3.4.8",
+    "@tomochain-name-service/ui": "^3.4.9",
     "ethers": "^4.0.32",
     "lodash": "^4.17.13"
   },

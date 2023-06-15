@@ -2286,10 +2286,10 @@
     dns-packet "^5.3.0"
     envfile "^6.18.0"
 
-"@tomochain-name-service/ui@^3.4.8":
-  version "3.4.8"
-  resolved "https://registry.yarnpkg.com/@tomochain-name-service/ui/-/ui-3.4.8.tgz#32eff8ba75b6bbb6cef00477c2cc0b534545f528"
-  integrity sha512-TKVu5Qix9GHrHdcx+jNprL2symZUdG0I6JhrbVsMEgpj0m4zzfOQ8q6L8jvupQd9+Dut+jTtcoDxz+IhE7JnTw==
+"@tomochain-name-service/ui@^3.4.9":
+  version "3.4.9"
+  resolved "https://registry.yarnpkg.com/@tomochain-name-service/ui/-/ui-3.4.9.tgz#62a1c6f0c94d0990127da02d75468c006e70e46d"
+  integrity sha512-RFurN+rgGxszvweKrDSWqiuhuziRWjeJ6LOSRVW2AJmpB+rtxCrKwx2MfJyW/Gt68MNFk744kAObubjwGah5ww==
   dependencies:
     "@0xproject/utils" "^2.0.2"
     "@babel/plugin-proposal-class-properties" "^7.8.3"
@@ -2311,7 +2311,6 @@
     dns-packet "^5.2.1"
     ethers "^5.6.2"
     js-sha3 "^0.8.0"
-    node-fetch "^3.3.1"
     typescript "^5.1.3"
 
 "@truffle/blockchain-utils@^0.0.25":
