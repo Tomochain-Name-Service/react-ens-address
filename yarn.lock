@@ -2286,10 +2286,10 @@
     dns-packet "^5.3.0"
     envfile "^6.18.0"
 
-"@tomochain-name-service/ui@^3.4.9":
-  version "3.4.9"
-  resolved "https://registry.yarnpkg.com/@tomochain-name-service/ui/-/ui-3.4.9.tgz#62a1c6f0c94d0990127da02d75468c006e70e46d"
-  integrity sha512-RFurN+rgGxszvweKrDSWqiuhuziRWjeJ6LOSRVW2AJmpB+rtxCrKwx2MfJyW/Gt68MNFk744kAObubjwGah5ww==
+"@tomochain-name-service/ui@^3.4.11":
+  version "3.4.11"
+  resolved "https://registry.yarnpkg.com/@tomochain-name-service/ui/-/ui-3.4.11.tgz#5a663ee156a644db909e10b5ddee5aac04123b2e"
+  integrity sha512-SrVb4qlZbe+x3iHYC8fHe4iARoPjcafCECxfR1lx+kn678qBT73kguE0n5yT7YZRHnTlbX7en3RQhBTLzyp9ow==
   dependencies:
     "@0xproject/utils" "^2.0.2"
     "@babel/plugin-proposal-class-properties" "^7.8.3"
